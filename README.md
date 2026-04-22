@@ -53,6 +53,6 @@ Coroutines for delays
 Better UI (animations, transitions)
 Sound manager system
 Power-ups and abilities
-🎮 Gameplay Link
+🎮 Gameplay Link - https://falcorse.itch.io/horrorrun
 
 -gamedev.tv https://gamedev.tv/
