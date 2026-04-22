@@ -1,7 +1,7 @@
-👑 Royal Run (Unity)
+👑 Horror Run (Unity)
 📌 About The Project
 
-Royal Run is a 3D endless runner game developed in Unity.
+Horror Run is a 3D endless runner game developed in Unity.
 The player controls a character who must survive as long as possible by collecting coins and avoiding obstacles while the timer keeps decreasing.
 
 🎮 Gameplay Features
@@ -49,13 +49,9 @@ Timer systems in Unity
 Audio handling
 UI updates with TextMeshPro
 Coroutines for delays
-Scene reloading
 🚀 Future Improvements
-Multiple levels or maps
 Better UI (animations, transitions)
-Leaderboard system
 Sound manager system
-Mobile controls support
 Power-ups and abilities
 🎮 Gameplay Link
 
